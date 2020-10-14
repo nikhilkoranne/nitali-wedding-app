@@ -1,7 +1,7 @@
 ---
 title: Nikhil-Chaitali's wedding invitation!
-subtitle: Coming soon
-image: img/whatsapp-image-2020-10-12-at-11.40.34-pm.jpeg
+subtitle: Coming soon...
+image: img/awhatsapp-image-2020-10-12-at-11.40.34-pm.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
