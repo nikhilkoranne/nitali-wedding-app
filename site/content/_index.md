@@ -1,6 +1,6 @@
 ---
-title: We,
-subtitle: invite you!
+title: We
+subtitle: "invite "
 image: img/awhatsapp-image-2020-10-12-at-11.40.34-pm.jpg
 blurb:
   heading: "Nikhil-Chaitali's "
