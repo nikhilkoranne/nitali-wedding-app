@@ -3,8 +3,8 @@ title: We
 subtitle: "invite "
 image: img/awhatsapp-image-2020-10-12-at-11.40.34-pm.jpg
 blurb:
-  heading: "Nikhil-Chaitali's "
-  text: wedding invitation!
+  heading: wedding invitation!
+  text: of Nikhil & Chaitali
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
