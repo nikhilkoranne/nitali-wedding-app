@@ -1,6 +1,6 @@
 ---
-title: Nikhil-Chaitali's wedding invitation!
-subtitle: Coming soon...
+title: Nikhil-Chaitali's
+subtitle: wedding invitation!
 image: img/awhatsapp-image-2020-10-12-at-11.40.34-pm.jpg
 blurb:
   heading: Why Kaldi?
