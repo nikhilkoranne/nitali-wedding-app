@@ -9,4 +9,4 @@ contact_entries:
 ---
 <h3 class="f4 b lh-title mb2">How many days…?</h3>
 
-https://www.timeanddate.com/countdown/wedding?iso=20210216T11&p0=1038&msg=Wedding+of+Nikhil+%26+Chaitali&font=cursive&csz=1
+"https://www.timeanddate.com/countdown/wedding?iso=20210216T11&p0=1038&msg=Wedding+of+Nikhil+%26+Chaitali"
