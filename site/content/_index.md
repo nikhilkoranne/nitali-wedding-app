@@ -9,7 +9,7 @@ blurb:
 intro:
   heading: What we plan
   text: On this day we seek your valuable presence and blessings
-products:
+photos:
   - image: img/nk.jpeg
     text: About Nikhil
   - image: img/cm.jpeg
